@@ -1,2 +1,2 @@
 # iqskyfrontend
-frontend of app
+frontend of IQ-SKY app(Space Quiz)
